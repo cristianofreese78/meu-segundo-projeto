@@ -1,0 +1,13 @@
+Criar um projeto spring que simule:
+
+(escolher categoria e produto resultante de uma categoria)
+
+Desenvolver: Resource, repositório e abstrair as entidades e seu relacionamento
+
+Entrega: Vídeo, foto, print dos códigos/git
+
+Obs: usar start.spring.io
+
+Depois importar o projeto maven já existente.
+
+Fica a critério do aluno adicionar algo a mais
